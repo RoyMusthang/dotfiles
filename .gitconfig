@@ -78,8 +78,3 @@
     svnd = svn dcommit
     svnl = svn log --oneline --show-commit
 
-[user]
-    name = Josué Lobo
-    email = darksiders20005@gmail.com
-[core]
-    editor = nvim --wait
